@@ -1,2 +1,2 @@
 # Data Visualization
-Visualize data with the matplotlib library
+Visualize data with the matplotlib library.

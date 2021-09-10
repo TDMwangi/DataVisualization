@@ -48,3 +48,8 @@ Responder_id,LanguagesWorkedWith
 48,HTML/CSS;PHP;SQL
 49,Bash/Shell/PowerShell;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript
 50,Bash/Shell/PowerShell;C;C++;HTML/CSS;Java;JavaScript;PHP;Python;SQL
+51,Bash/Shell/PowerShell;C++;HTML/CSS;Java;JavaScript;Python;R;TypeScript
+52,Bash/Shell/PowerShell;C;C++;Elixir;Erlang;Go;HTML/CSS;Java;JavaScript;Kotlin;Python;Ruby;Rust;SQL;TypeScript
+53,Bash/Shell/PowerShell;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript
+54,Bash/Shell/PowerShell;HTML/CSS;JavaScript;Python
+55,Java;Python;SQL

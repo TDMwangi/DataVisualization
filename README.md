@@ -8,3 +8,4 @@ Visualize data with the matplotlib library.
 - Filling line plot areas
 - Histograms
 - Correlation using scatter plots
+- Plotting time series data

@@ -7,3 +7,4 @@ Visualize data with the matplotlib library.
 - Tracking data with Stack plots
 - Filling line plot areas
 - Histograms
+- Correlation using scatter plots
